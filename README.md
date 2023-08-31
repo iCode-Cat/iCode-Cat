@@ -9,13 +9,13 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 ## 🛠 Skills
 
 ### Front-end Development
-- React
-- React Native <!-- Added -->
 - HTML
 - CSS3
 - JavaScript
 - TypeScript
+- React
 - Next.js
+- React Native
 
 ### Back-end Development
 - Node.js
