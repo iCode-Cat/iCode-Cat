@@ -1,4 +1,4 @@
-# ICode-Cat's Profile 👨‍💻
+# iCode-Cat's Profile 👨‍💻
 
 ## 👋 About Me
 
