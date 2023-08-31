@@ -14,6 +14,8 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 - JavaScript
 - TypeScript
 - React
+- React Redux Toolkit
+- RTK Query
 - Next.js
 - React Native
 
@@ -22,6 +24,7 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 - Express.js
 - Python
 - MongoDB
+- Headless CMS
 
 ### Blockchain
 - Solidity
@@ -33,9 +36,7 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 - Git
 
 ### Other Skills
-- React Redux Toolkit
 - JAMStack
-- RTK Query
 - Adobe After Effects
 - Adobe Premiere
 - Adobe Lightroom
