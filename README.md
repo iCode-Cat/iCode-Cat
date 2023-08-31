@@ -35,3 +35,7 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 ### Other Skills
 - React Redux Toolkit
 - JAMStack
+- RTK Query
+- Adobe After Effects
+- Adobe Premiere
+- Adobe Lightroom
