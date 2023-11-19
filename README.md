@@ -4,7 +4,7 @@
 
 Hello, I'm Dev, a full-stack developer passionate about web technologies, blockchain, cloud computing, and mobile development. I'm always looking to work on projects that challenge me and help me broaden my skill set.
 
-- 🌱 I'm currently learning: Advanced Python, Advanced Mobile Development
+- 🌱 I'm currently learning: Advanced Python, SQL and Advanced Mobile Development
 - 🎯 Future Goals: Learning AI, Visiting at least 50 countries.
 - 🌍 14 countries visited. 
 
