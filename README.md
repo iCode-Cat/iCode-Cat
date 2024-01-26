@@ -18,8 +18,9 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 - React
 - React Redux Toolkit
 - RTK Query
-- Next.js
+- Next.js 13+
 - React Native
+- Tailwind CSS
 
 ### Back-end Development
 - Node.js
