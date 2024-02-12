@@ -43,3 +43,4 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 - Adobe After Effects
 - Adobe Premiere
 - Adobe Lightroom
+- Short Film Directing
