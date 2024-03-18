@@ -44,4 +44,4 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 - Adobe Premiere
 - Adobe Lightroom
 - Short Film Directing
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iCode-Cat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
