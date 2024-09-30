@@ -6,7 +6,7 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 
 - 🌱 I'm currently learning: Advanced Python, SQL and Advanced Mobile Development
 - 🎯 Future Goals: Learning AI, Visiting at least 50 countries.
-- 🌍 16 countries visited. 
+- 🌍 17 countries visited. 
 
 ## 🛠 Skills
 
