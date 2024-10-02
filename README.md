@@ -41,4 +41,3 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iCode-Cat&layout=compact)](https://github.com/iCode-Cat/github-readme-stats)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iCode-Cat&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
