@@ -40,6 +40,7 @@ Hello, I'm Dev, a full-stack developer passionate about web technologies, blockc
 
 ### 🔐 Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFC107?style=for-the-badge&logo=hardhat&logoColor=black)
 
 ### ☁️ DevOps and Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
