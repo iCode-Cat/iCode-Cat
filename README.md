@@ -5,7 +5,7 @@
 Hello, I'm Dev, a full-stack developer passionate about web technologies, blockchain, cloud computing, and mobile development. I'm always looking to work on projects that challenge me and help me broaden my skill set.
 
 - 🎯 Future Goals: `✈️ Visit 50+ countries`
-- 🌍 18 countries visited.
+- 🌍 20 countries visited.
 
 ## 🛠 Skills
 
